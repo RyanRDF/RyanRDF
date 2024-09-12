@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Perkenalkan nama saya **Ryan Rafael Nainggolan**.<br>
 <!--
 **RyanRDF/RyanRDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
